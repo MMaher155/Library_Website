@@ -37,7 +37,7 @@ HTML-encoded and single quotes and backslash escaped
 - [ ] [2FA simple bypass](https://book.hacktricks.xyz/pentesting-web/2fa-bypass)
 - [ ] [2FA broken logic](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-broken-logic)
 
-<!--
+***
 - [ ] Implement frontend
 - [X] Implement backend
 - [ ] test security features
