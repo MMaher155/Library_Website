@@ -42,7 +42,7 @@ HTML-encoded and single quotes and backslash escaped
 - [X] Implement backend
 - [ ] test security features
 
-Use `git status` to list all new or modified files that haven't yet been committed.
+Stil a work in progress
 
 <p align="center">
   <b>Created by: Mohamed Maher</b>
